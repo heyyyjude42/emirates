@@ -1,0 +1,12 @@
+[
+  {
+    "place" : "Lyon",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Philadelphia",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+]
