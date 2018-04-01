@@ -60,12 +60,377 @@
     "details" : "url maybe?"
   },
   {
-    "place" : "Penang",
+    "place" : "Vienna",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Warsaw",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "St Petersburg",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Newcastle",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Islamabad",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Glasgow",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Brisbane",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Perth",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Christchurch",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Dhaka",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Yinchuan",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Hyderabad",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bangalore",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Guangzhou",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Cebu",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Lahore",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Yangon",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Seychelles",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Birmingham",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Casablanca",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Cairo",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Conakry",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Harare",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Basra",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Denpasar",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Jakarta",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "São Paulo",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Tehran",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Zhengzhou",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Dallas",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Geneva",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Zurich",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Seattle",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Newark",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Tunis",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Shanghai",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bangkok",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Adelaide",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Taipei",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Phuket",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Chandigarh",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bucharest",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Rehovot",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bishkek",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bali",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Nassau",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Almaty",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Kiev",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Mexico City",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Ulaanbaatar",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Skopje",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Ljubljana",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Sofia",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Baku",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Ghaziabad",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Minsk",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Busan",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Sarajevo",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Surabaya",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Nara",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Hangzhou",
     "flies" : 0,
     "details" : "url maybe?"
   },
   {
     "place" : "Doha",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Wellington",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Chiang Mai",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Abu Dhabi",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Johor Bahru",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Vientienne",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Rotterdam",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Shenzhen",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Cologne",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Thessaloniki",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Jeju",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Montreal",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Izmir",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Vancouver",
     "flies" : 0,
     "details" : "url maybe?"
   },
