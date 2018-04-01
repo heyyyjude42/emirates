@@ -5,8 +5,73 @@
     "details" : "url maybe?"
   },
   {
-    "place" : "Philadelphia",
+    "place" : "Lagos",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Abuja",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Accra",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Ho Chi Minh City",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Male",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Karachi",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Peshawar",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Bologna",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Copenhagen",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Malta",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Stockholm",
+    "flies" : 1,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Penang",
     "flies" : 0,
     "details" : "url maybe?"
   },
+  {
+    "place" : "Doha",
+    "flies" : 0,
+    "details" : "url maybe?"
+  },
+  {
+    "place" : "Philadelphia",
+    "flies" : 0,
+    "details" : "url maybe?"
+  }
 ]

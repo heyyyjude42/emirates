@@ -1,5 +1,72 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  font-family: "IBM Plex Serif", serif;
+  text-align: center;
+  font-weight: lighter;
+  color: #ccc;
+  background-color: #334;
+  transition: all .4s ease-in-out;
+  letter-spacing: 0.5px;
+}
+
+.head {
+  font-weight: lighter;
+  letter-spacing: 3px;
+  padding-bottom: 5px;
+  color: #444;
+  margin: 50px;
+}
+
+.choicesPanel {
+  margin: auto;
+  width: 30%;
+  padding: 20px;
+}
+
+.location {
+  padding: 15px;
+  font-size: 40px;
+}
+
+.label {
+  margin: 10px;
+}
+
+.option {
+  padding: 20px;
+  margin-top: 10px;
+  background-color: #eed;
+  font-family: "IBM Plex Serif", serif;
+  font-size: 18px;
+  border: 0px;
+  font-weight: lighter;
+}
+
+.restart {
+  margin: auto;
+  background-color: #eed;
+  font-family: "IBM Plex Serif", serif;
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 30px;
+  padding: 20px;
+  border: 0px;
+}
+
+button {
+  margin: auto;
+  width: 40%;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:hover{
+  background-color: #ccb;
+}
+
+button:active {
+  background-color: #aa9;
 }
